@@ -1,2 +1,2 @@
-# [Severance Project](./severance.py)
+# Severance Project
 
