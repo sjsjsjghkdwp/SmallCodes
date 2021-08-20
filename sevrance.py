@@ -1,4 +1,4 @@
-# .ipynb ÆÄÀÏÀ» ³»¿ë¸¸ ÃßÃâÇØ .pyÆÄÀÏ·Î ¸¸µç °Í ÀÔ´Ï´Ù
+# .ipynb  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ë¸¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ .pyï¿½ï¿½ï¿½Ï·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ô´Ï´ï¿½
 # ln[1]
 import warnings
 
@@ -94,7 +94,7 @@ plt.show()
 # ln[10]
 pts1 = np.float32([LTmost_data1, LBmost_data1, RTmost_data1, RBmost_data1])
 
-    # ÁÂÇ¥ÀÇ ÀÌµ¿Á¡
+    # ï¿½ï¿½Ç¥ï¿½ï¿½ ï¿½Ìµï¿½ï¿½ï¿½
 pts2 = np.float32([LTmost_base, LBmost_base, RTmost_base, RBmost_base])
 
 M = cv2.getPerspectiveTransform(pts1, pts2)
